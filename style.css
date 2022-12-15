@@ -1,0 +1,55 @@
+.resimslider{
+    height: 600px;
+    background-size: cover;
+}
+body{
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hakkimizda{
+background-color: #b2b2b2;
+
+}
+.cizgi{
+    border: none;
+    border-top: 3px solid #343a40;
+    
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+   
+    position: relative; 
+
+      top: -55px;
+    font-size: 40px;
+    border: none;
+    border: 10px solid white;
+    background-color:white;
+}
+.igri{ position: relative; 
+
+    top: -55px;
+  font-size: 40px;
+  border: none;
+  border: 10px solid #b2b2b2;
+  background-color: #b2b2b2;
+}
+.galeri{
+    background-color: #b2b2b2;
+
+}
+.figure:hover{opacity: 0.7;
+
+}
+.form-group  p {
+    margin-left: -450px;
+    
+
+   
+    
+    
+    
+    
+   
+}
